@@ -22,6 +22,6 @@ while n:
         print(words)
         n=False
     except KeyError:
-        print("please enter characters only")
+        print("please enter characters only.")
 
 # print(.letter)
