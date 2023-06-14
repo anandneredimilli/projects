@@ -8,8 +8,8 @@ import smtplib
 from email.message import EmailMessage
 
 #setup email credentials
-email_sender = "anandn9804@gmail.com"
-email_password = "ptoyfxljjsjylsgl"
+email_sender = "dummyemail"
+email_password = "dummypassword"
 
 #read the csv file
 file = pandas.read_csv('birthdays.csv')
