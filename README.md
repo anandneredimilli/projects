@@ -26,5 +26,6 @@ features:
 - sends the birthday messages to the recipients through email
 
 ### 5.Nato alphabet project:
+It is a Python program that generates a name acrostic based on the user's input. it compares the letters in userinput with letters in csv if a match found then corresponding word is appended to the output list.
 
 
